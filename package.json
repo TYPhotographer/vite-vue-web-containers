@@ -10,10 +10,7 @@
   },
   "dependencies": {
     "@webcontainer/api": "^1.0.2",
-    "url": "^0.11.0",
     "vue": "^3.2.45",
-    "vue-dir-tree-view": "^0.1.4",
-    "vue3-tree-vue": "^1.0.17",
     "xterm": "^5.1.0"
   },
   "devDependencies": {
